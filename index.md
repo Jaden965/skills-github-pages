@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Check In
 ---
 im chillin, are you?
 - [ ] yeah
